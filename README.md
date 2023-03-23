@@ -1,7 +1,7 @@
 # NYCitiBikes - Análise de Dados
 Bom dia, boa tarde, boa noite! 
 
-Este projeto é foi construído como parte do desafio de data analysis do [Career Foundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/). Tanto as análises, quanto a apresentação do relatório estão em inglês para manter o idioma em que o desafio foi criado. Originalmente toda a limpeza e análise de dados foram feitas no Google Spreadsheet e a apresentação do relatório feita no Google Slides, sendo que, para facilitar a visualização e acesso aos arquivos, estes foram convertidos respectivamentes para .xlms e .pdf e estão armazenados neste reposotório da seguinte forma:
+Este projeto é foi construído como parte do desafio de data analysis do [Career Foundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/). Tanto as análises, quanto a apresentação do relatório estão em inglês para manter o idioma em que o desafio foi criado. Originalmente toda a limpeza e análise de dados foram feitas no Google Sheets e a apresentação do relatório feita no Google Slides, sendo que, para facilitar a visualização e acesso aos arquivos, estes foram convertidos respectivamentes para .xlms e .pdf e estão armazenados neste reposotório da seguinte forma:
 
 ## Arquivos do repositório
 - [01NYCitiBikes_Report&Insights.pdf](https://github.com/pedrocostanunes/NYCitiBike_DataAnalysis/blob/main/01NYCitiBikes_Report%26Insights.pdf) Apresentação do report e insights gerados na análise.
@@ -21,7 +21,7 @@ Esses dados são extremamente valiosos, portanto vamos analisá-los para gerar i
 
 ## Tecnologias Utilizadas
 
-- [Google Spreadsheets](https://www.google.com/sheets/about/)
+- [Google Sheets](https://www.google.com/sheets/about/)
 - [Google Slides](https://www.google.com/slides/about/)
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
