@@ -1,5 +1,4 @@
-# Limpeza e Análise Exploratória de Dados 
-
+# NYCitiBikes - Análise de Dados
 Bom dia, boa tarde, boa noite! 
 
 Este projeto é foi construído como parte do desafio de data analysis do [Career Foundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/). Tanto as análises, quanto a apresentação do relatório estão em inglês para manter o idioma em que o desafio foi criado. Originalmente toda a limpeza e análise de dados foram feitas no Google Spreadsheet e a apresentação do relatório feita no Google Slides, sendo que, para facilitar a visualização e acesso aos arquivos, estes foram convertidos respectivamentes para .xlms e .pdf e estão armazenados neste reposotório da seguinte forma:
